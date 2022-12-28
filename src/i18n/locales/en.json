@@ -1,0 +1,13 @@
+{
+  "scan": {
+    "products": "Scan Products",
+    "details": "Scan Details",
+    "code": "Scan code",
+    "scan": "Scan",
+    "done": "Done",
+    "color": "color",
+    "size": "size",
+    "points": "& get 100 points",
+    "egp": "EGP"
+  }
+}
